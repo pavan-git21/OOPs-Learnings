@@ -47,11 +47,8 @@ Why It Matters: Abstraction simplifies code by focusing on what an object does, 
 
 Java Example: An interface defines a Payment method, and classes like CreditCardPayment implement it without exposing internal logic.
 
-Real-Life Examples
+**Real-Life Examples**
 Here’s how OOP principles map to real-world scenarios:
 
-**Scenario**	       **OOP Principle**	                             **Explanation**
-Bank Account System	  Encapsulation	     Account details (e.g., balance) are private, accessible only via methods like deposit().
-Vehicle Dealership	  Inheritance	       A Car and Truck inherit from a Vehicle class, sharing attributes like price.
-Payment Processing	  Polymorphism	     A pay() method behaves differently for CreditCard vs. PayPal payments.
-Coffee Machine	      Abstraction	       User interacts with buttons (e.g., "brew") without knowing the machine’s internals.
+![image](https://github.com/user-attachments/assets/4844ea98-b890-4511-8832-84d73491db2a)
+
